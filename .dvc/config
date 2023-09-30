@@ -4,3 +4,5 @@
     url = gdrive://1kQFTGsbCygPs0v3P2kTM7L7AxoyLqW3E
 ['remote "myremote"']
     url = gdrive://1kQFTGsbCygPs0v3P2kTM7L7AxoyLqW3E
+    gdrive_client_id = "'726992485919-1jmvg8ukm4q3v47i56ggd8hkbec5mflp.apps.googleusercontent.com'"
+    gdrive_client_secret = "'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'"
